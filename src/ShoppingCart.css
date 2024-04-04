@@ -1,0 +1,21 @@
+/* #f4f3ee */
+.bg-lightbrown{
+    background-color:#f4f3ee !important;
+}
+
+.bg-none{
+    background-color: transparent !important;
+}
+
+.own-btn{
+    background-color: transparent !important;
+    color: goldenrod !important;
+    border: 2px solid goldenrod !important;
+}
+
+.own-btn-1{
+    background-color:goldenrod !important;
+    color: black !important;
+    border: 2px solid goldenrod !important;
+    
+}
